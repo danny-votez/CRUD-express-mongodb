@@ -1,8 +1,5 @@
-# CRUD-express-mongodb
-**form input for post**
-
-![image](https://user-images.githubusercontent.com/77758884/171938983-44953af7-a347-4ff0-8caf-a96f3115f537.png)
-
-**output**
-![image](https://user-images.githubusercontent.com/77758884/171938683-317163f4-21fb-4c9f-b065-fc5f5a736a7a.png)
-
+## CRUD-express-mongodb
+**localhost:4000**
+![image](https://user-images.githubusercontent.com/77758884/172013051-9525971c-bd3d-496b-a526-0e34917996f4.png)
+**MongoDB view**
+![image](https://user-images.githubusercontent.com/77758884/172013196-d96e25a0-898d-4d22-b88c-dbe67e7861fa.png)
