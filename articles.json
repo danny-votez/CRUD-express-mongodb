@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "629b6d46c28fc932d5b93f94"
+  },
+  "articleID": 1,
+  "title": "Introduction to JavaScript",
+  "content": "Javascript 101",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629b6df2c28fc932d5b93f96"
+  },
+  "articleID": 2,
+  "title": "Python Fundamentals",
+  "content": "Python 101 - Starting from basic to pro",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629b6e0fc28fc932d5b93f98"
+  },
+  "articleID": 3,
+  "title": "Java Fundamentals",
+  "content": "Java 101 - Mastering the Language",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629b6e36c28fc932d5b93f9a"
+  },
+  "articleID": 4,
+  "title": "Kotlin Basics",
+  "content": "Kotlin 101 - The Android Develoment Language",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629b7993bf99d68b0b9e031e"
+  },
+  "articleID": 5,
+  "title": "Go",
+  "content": "The Amazing Language Developed at Google",
+  "__v": 0
+}]
